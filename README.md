@@ -48,9 +48,10 @@ pizza-sales-analysis/
 
 ---
 
+
 ## 📄 Project Report
 
-👉 [View Pizza Sales Analysis Report](report/Pizza_Sales_Analysis.pdf)
+👉 [View Pizza Sales Analysis Report](pizza%20sales%20analysis%20sql/Report/Pizza%20Sales%20Analysis.pdf)
 
 ---
 
